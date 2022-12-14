@@ -1,0 +1,108 @@
+---
+title: "Ahmed Panhwar"
+author: Ahmed Panhwar
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>ahmed.panhwar@tufts.edu
+- <i class="fa fa-github"></i> [github.com/AhmedPanhwar7/](https://github.com/AhmedPanhwar7)
+- <i class="fa fa-phone"></i> +1 857-498-1404
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- Basic Understanding of Python, R and Matlab
+
+- Performing data analytics with a focus on engineering models
+
+- Experienced in data assortment and client relations
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ahmed Panhwar {#title}
+--------------------------------------------------------------------------------
+
+### Seeking internship in summer 2023
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2022--Current
+
+
+### Institute of Business Administration
+
+BBA in Marketing & Finance
+
+KHI,PK
+
+2011--2015
+
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Tufts University
+
+Medford, MA
+
+2022--Present
+
+- Developed research questions 
+- Provided additional guidance for students
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Foundations of Data Analyics 
+
+Tufts University
+
+Medford, MA
+
+2022--2023
+
+<!--::: concise-->
+- Worked on a project to assess blood pressure of participants using their dietary habits information survey
+- Worked on several models to assess accuracy level that are SVM, KNN, random forest and logistic regression.
+<!--:::-->
+
+
